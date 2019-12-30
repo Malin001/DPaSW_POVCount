@@ -1,0 +1,1146 @@
+1;Harry;;1046
+1;Harry;Fate, Death;2742
+2;Harry;;734
+2;Other;Harry;316
+2;Other;;138
+2;Harry;;94
+2;Harry;Ollivander;997
+2;Angelystor;Harry;1231
+2;Harry;;492
+2;Harry;Other;857
+2;Harry;;170
+3;Harry;Other;33
+3;Harry;;690
+3;Harry;Other;694
+3;Harry;;1308
+3;Curtis;Harry (Malfoy);479
+3;Harry;;402
+4;Jacob;James;451
+4;Jacob;Sunny;469
+4;Jacob;Harry (Slytherin);427
+4;Harry;;413
+4;Jacob;Harry (Slytherin);1122
+4;Jacob;Sunny, Harry (Slytherin);756
+4;Jacob;Sunny, Harry;1235
+5;Daphne;Harry;2502
+5;Dumbledore;Sunny, Other;1622
+5;Sunny;Daphne;394
+5;Daphne;Harry;1137
+6;Hermione;Emma;218
+6;Hermione;Harry;2047
+6;Hermione;;238
+6;Hermione;Harry;1102
+6;Hermione;Other;195
+6;Hermione;Harry (Slytherin);171
+6;Hermione;Daphne;387
+6;Hermione;Harry (Slytherin);178
+6;Hermione;;313
+7;Ginny;;821
+7;Ginny;John, Ron;347
+7;Ginny;;1665
+7;Ginny;Harry;2663
+7;John;Ginny;292
+7;Ginny;Harry;605
+8;Harry;Luna;688
+8;Harry;;315
+8;Harry;Luna;302
+8;Harry;Alex;323
+8;Harry;Luna;237
+8;Harry (Slytherin);Daphne;500
+8;Harry (Slytherin);Alex;668
+8;Harry;Luna, Xeno, Pandora;865
+8;Harry;Alex;850
+8;Harry;Daphne;384
+9;Harry;Daphne;1029
+9;Daphne;Harry, Ragnok;1562
+9;Daphne;Harry;1105
+9;Daphne;Harry, Other;956
+9;Harry;Daphne;1307
+10;Harry;Daphne;1916
+10;Daphne;Jacob, Sunny;364
+10;Harry (Slytherin);;173
+10;Daphne;Sunny, Other, Dumbledore;584
+10;Harry (Slytherin);;190
+10;Dumbledore;;359
+10;Harry (Slytherin);;250
+10;Daphne;Dumbledore;144
+10;Harry (Slytherin);Dumbledore;854
+10;Dumbledore;;236
+11;Harry;Ginny, Luna;1001
+11;Harry;Vernon, Petunia;1019
+11;John;;566
+11;John;Lily, James;1245
+11;John;Ginny;401
+11;John;;310
+11;John;Alex, Sirius;466
+11;John;Sirius;698
+12;Ginny;Molly, Arthur, Andromeda;1324
+12;John;Ginny;455
+12;John;Molly, Arthur, Percy, Andromeda;529
+12;Ginny;Fred, George;853
+12;Harry;Draco;534
+12;Harry;Ollivander, Hagrid;602
+12;Harry (Ginny);Ginny;898
+12;Harry (Ginny);Ginny, Bill, Charlie;839
+12;Harry (Ginny);;428
+12;Harry;Daphne;713
+13;Hermione;Dan, Emma;723
+13;Dan;Emma;471
+13;Other;Hermione, Dan, Emma;550
+13;Hermione;Dan, Emma, Ragnok;1569
+13;Hermione;Dan, Emma;189
+13;Hermione;Justin;751
+13;Hermione;;106
+13;Hermione;Harry;966
+13;Hermione;Ollivander;943
+13;Hermione;Dan, Emma;202
+14;Alex;Orion;1320
+14;Alex;Sirius;762
+14;Alex;Sirius, John, Susan;544
+14;Alex;John, Susan;917
+14;Alex;John, Susan, Luna;473
+14;Alex;John, Susan, Luna, Sirius, James, Lily, Amelia;1383
+14;Alex;Luna, Orion;1059
+14;Alex;John, Susan, Luna, Sirius, James, Lily, Amelia;991
+14;Alex;Luna;811
+15;God;;444
+15;Harry;;489
+15;Hermione;Dan, Emma;323
+15;Hermione;;405
+15;Hermione;Fred, George;488
+15;Daphne;Tracey;743
+15;Daphne;Tracey, Hermione;350
+15;Lisa;;103
+15;Harry;Draco, Pansy, Crabbe, Goyle;466
+15;John;Susan, Ron, Lavender, Sally, Padma, Neville, Hannah;999
+15;Lisa;;113
+15;Daphne;Tracey, Hermione, Blaise, Parvati, Zach, Terry, Wayne;694
+15;Harry;Draco, Crabbe, Goyle, Theo, Pansy, Millicent, Su;1369
+15;Hermione;Tracey, Blaise, Other;385
+15;Hermione;Tracey, Blaise, Theo, Daphne;460
+15;Lisa;;66
+15;John;Hannah, Neville, Hermione, Susan;853
+15;Hermione;;140
+15;Daphne;Susan, Theo, Blaise, Zach, Tracey, Wayne, Parvati, Terry;439
+15;Harry;Pansy, Draco, Theo;399
+15;Harry;Lisa;657
+15;Harry;;99
+15;John;Susan;106
+15;Harry;John;209
+15;John;Harry;650
+16;Dumbledore;Pomfrey, McGonagall;1287
+16;Daphne;Hermione, Pomfrey, Dumbledore;1138
+16;Daphne;Snape;563
+16;Hermione;Daphne;555
+16;Hermione;Daphne, McGonagall;452
+16;Daphne;Hermione, Flitwick;2079
+16;Dumbledore;McGonagall, Dan, Emma;1486
+16;Dan;Emma, McGonagall;368
+16;Dumbledore;;290
+16;Hermione;Daphne, McGonagall;1881
+16;Dumbledore;Other;563
+16;Dumbledore;John;365
+16;John;;343
+17;Hermione;Daphne, Volf Jr;1399
+17;Hermione;Sprout, Daphne;401
+17;Hermione;Lisa, Sophie, Padma;620
+17;Daphne;Snape, Hermione;1191
+17;Hermione;Wayne, Zach, Justin, Kevin;840
+17;Daphne;Hermione;836
+17;Dumbledore;;588
+17;Hermione;Harry, John, Dean, Quirrell, Draco;1077
+17;Daphne;Hermione, Tracey;696
+17;Daphne;Hermione, Tracey, Volf Jr;1053
+17;Daphne;Hermione, Tracey, Volf Jr, Harry (Slytherin);1644
+18;Dumbledore;;492
+18;Harry;Draco;467
+18;Harry;Daphne, Hermione;492
+18;Harry;Volf Jr, Other;302
+18;Harry;;1597
+18;Jacob;Harry (Slytherin);500
+18;Jacob;Harry (Slytherin), Xeno;347
+18;Jacob;Harry (Slytherin), Xeno, Other;843
+18;Harry;;504
+18;Harry;Volf Jr;177
+18;Harry;McGonagall;201
+18;Harry;Daphne, Hermione;298
+18;Harry;Fred, George;3029
+18;Harry;Volf Jr, Other;525
+18;Harry (Slytherin);;358
+18;Hermione;Harry (Slytherin);275
+18;Dumbledore;Harry (Slytherin), Hermione;1660
+19;Daphne;Hermione;520
+19;Harry;Daphne, Hermione, Other;1419
+19;Harry;Daphne, Hermione;2420
+19;Dumbledore;McGonagall, Flitwick, Quirrell;1346
+19;Hermione;Pomfrey;1110
+19;Daphne;Harry;1308
+19;John;Flitwick;111
+20;Hermione;Kevin;663
+20;Hermione;Draco, Susan, Daphne;282
+20;Hermione;Susan, Daphne;323
+20;Daphne;Harry;1062
+20;Hermione;Pomfrey;864
+20;Daphne;Hermione, Quirrell;458
+20;Daphne;Draco, Hermione, Quirrell;203
+20;Daphne;Harry, Quirrell;323
+20;John;Sophie;335
+20;Harry;;258
+20;Hermione;Flint;285
+20;Hermione;Tracey, Daphne;253
+20;Dumbledore;John;269
+20;Hermione;Daphne, Lisa, Padma;122
+20;Harry;;201
+20;Sophie;;143
+20;John;Ron;113
+20;Hermione;Daphne, Lisa, Padma, Sophie;613
+20;Dumbledore;McGonagall;94
+20;Hermione;Daphne, Lisa, Padma, Sophie, John;435
+20;Hermione;Daphne, Harry;740
+20;Hermione;Daphne, Dumbledore, McGonagall;198
+20;Harry;;410
+21;Harry;Daphne, Hermione;901
+21;Dumbledore;;290
+21;Harry;;356
+21;Harry;Dumbledore;333
+21;Harry;Volf Jr;183
+21;Hermione;Dumbledore, Daphne, Harry, Sophie;895
+21;Dumbledore;;174
+21;Harry;Fred, George;2228
+21;Hermione;Draco, Justin;632
+21;Hermione;Justin, Kevin;278
+21;Harry;Daphne;345
+21;Hermione;Justin, Sophie, Lisa, Padma, Terry;846
+21;Daphne;Other;402
+21;Hermione;Justin, Dean;247
+21;John;Dean;302
+21;Hermione;Volf Jr, Theo, Harry;1444
+21;Daphne;Tracey, Blaise, Flint, Harry, Hermione;1816
+21;Hermione;Harry, Daphne;803
+22;Harry;Angelystor;1251
+22;Dumbledore;;652
+22;Dumbledore;James, Lucius, Jacob;377
+22;Dumbledore;James, Lucius, Jacob, Harry (Slytherin);326
+22;Dumbledore;James;392
+22;Harry;Hermione, Pansy, John;1276
+22;Hermione;John, Pomfrey;348
+22;Daphne;Baron;418
+22;Harry;Hermione;557
+22;Hermione;Dean, Kevin, Padma, Sophie, Justin, Elizabeth;1243
+22;Harry (Slytherin);Daphne;203
+22;Harry (Slytherin);Daphne, Baron;239
+22;Hermione;Dean, Kevin, Sophie, Justin, Elizabeth;1491
+22;Draco;Daphne;401
+22;Harry (Slytherin);Nearly Headless Nick;570
+22;Harry (Slytherin);Daphne;66
+22;Hermione;Dean, Kevin, Sophie, Justin, Elizabeth;1624
+22;Harry;Tracey, Daphne;829
+23;Harry;Daphne;402
+23;Harry;Daphne, Hermione, Luna;1662
+23;Harry;Daphne, Hermione, Luna, Ragnok;2151
+23;Harry;Daphne, Hermione, Luna;1476
+23;John;James;359
+23;Daphne;Tracey;77
+23;Harry (Slytherin);Other;379
+23;Daphne;Hermione, Draco, Zach, Harry (Slytherin);833
+23;Harry (Slytherin);Jacob;224
+23;Harry (Slytherin);;338
+23;Hermione;Daphne;70
+23;John;Draco, Theo, Neville, Zach;179
+23;Harry (Slytherin);;126
+23;Daphne;Hermione, Pandora;272
+23;John;Draco, Sirius;310
+23;Harry (Slytherin);James;1259
+23;Daphne;Hermione, Pandora;894
+23;John;Sirius, Neville, Draco, Theo, Zach;1514
+23;John;;118
+24;Ginny;Molly, Arthur;1311
+24;Ginny;Harry;510
+24;Ginny;Lily;1111
+24;Ginny;;386
+24;Ginny;Harry;313
+24;Ginny;;124
+24;Ginny;Harry;186
+24;Ginny;;100
+24;Ginny;Harry;195
+24;Ginny;;634
+24;Ginny;Luna;180
+24;Ginny;;337
+24;Ginny;Luna;331
+24;Ginny;Harry;747
+24;Ginny;Molly;210
+24;Ginny;Luna;158
+24;Ginny;Harry;304
+24;Ginny;Molly;91
+24;Ginny;Luna;328
+24;Ginny;Harry;712
+24;Ginny;Molly;99
+24;Ginny;Harry;82
+24;Ginny;;78
+24;Ginny;Harry;100
+24;Ginny;;28
+24;Ginny;Luna;207
+24;Ginny;Harry;255
+24;Ginny;Alex;378
+24;Ginny;Harry;876
+24;Ginny;;78
+24;Ginny;Luna;393
+24;Ginny;Harry;310
+24;Ginny;Alex;906
+24;Ginny;Harry;609
+24;Ginny;Luna;182
+24;Ginny;Harry;134
+24;Ginny;;75
+24;Ginny;Harry;55
+24;Ginny;Molly;352
+24;Ginny;Luna;550
+24;Ginny;Harry;14
+24;Ginny;Molly;91
+24;Ginny;Luna;47
+24;Ginny;;898
+25;Alex;;473
+25;Alex;Sirius;274
+25;Alex;Orion;247
+25;Alex;;773
+25;Alex;Xeno;223
+25;Alex;Luna;272
+25;Alex;Luna;476
+25;Alex;;409
+25;Alex;Luna;112
+25;Alex;Ginny;121
+25;Alex;Luna;136
+25;Alex;;254
+25;Alex;Other;1243
+25;Alex;;1270
+25;Alex;;739
+25;Alex;Luna;764
+25;Alex;Luna;593
+25;Alex;Luna, Other;407
+25;Alex;Luna, Perv Ghost;926
+25;Alex;;296
+25;Alex;Luna;604
+26;Alex;;313
+26;Alex;Luna;395
+26;Alex;Luna, Xeno;622
+26;Alex;Luna, Other;526
+26;Alex;Ginny;261
+26;Alex;Luna;294
+26;Alex;Orion;479
+26;Alex;Luna;269
+26;Alex;;396
+26;Alex;Luna;248
+26;Alex;Luna, Perv Ghost;580
+26;Alex;Luna, Xeno, Pandora, Perv Ghost;508
+26;Alex;Orion;445
+26;Alex;Luna;262
+26;Alex;;66
+26;Alex;Luna;1176
+26;Alex;Harry (Slytherin);1830
+26;Alex;Harry, Daphne;793
+26;Sirius;;240
+27;Clare;Other;1403
+27;Clare;Harry (Slytherin), Dan, Emma;2390
+27;Clare;Other;469
+27;Clare;Harry (Slytherin), Dan, Emma;895
+27;Clare;Emma, Dan;943
+27;Clare;Emma, Dan;1005
+27;Clare;Ollivander;386
+27;Clare;Other;1509
+27;Clare;Emma, Dan;987
+27;Clare;Hermione, Dan;459
+27;Clare;Emma, Dan, Harry (Slytherin);458
+27;Clare;Emma, Dan, Sunny, Jacob, Harry (Slytherin), Volf Sr;2815
+27;Lucius;Volf Sr;758
+28;Curtis;Other;378
+28;John;Hermione, Draco;516
+28;John;Hermione;564
+28;John;Susan;421
+28;Dumbledore;;1132
+28;Daphne;Hermione, Harry, Angelystor;2219
+28;Dumbledore;Harry, Daphne, Tracey;374
+28;Hermione;Draco;1098
+28;Hermione;Daphne;150
+28;Harry;John, Dean;490
+28;Sirius;Other;384
+28;Dumbledore;;34
+28;Daphne;Angelystor, Harry, Hermione;254
+28;Harry;;190
+28;Other;Other;143
+28;Harry;Curtis;283
+28;Draco;Hermione;670
+28;Harry;Tracey;159
+28;Harry;Dumbledore, Hermione, John;676
+28;John;Draco;364
+28;Daphne;Angelystor, Harry;370
+28;Harry (Malfoy);Other, Sirius;883
+28;Harry;Daphne, Hermione, Angelystor;333
+28;Daphne;;170
+28;Harry;Dumbledore;88
+28;Hermione;John;179
+28;Harry;Tracey, Hermione, John;313
+28;Draco;Hermione, John;201
+28;Harry;Tracey, Hermione, John, Draco, Dumbledore;338
+28;Daphne;Harry, Hermione;383
+28;Dumbledore;Harry;407
+28;Daphne;Hermione;202
+28;Dumbledore;Harry;321
+28;Daphne;Hermione;346
+28;Dumbledore;Harry;271
+28;Daphne;Hermione;659
+28;Daphne;Hermione, Quirrell;247
+28;Dumbledore;Harry;221
+28;Daphne;Hermione, Quirrell;244
+28;Dumbledore;Harry, McGonagall;190
+28;Daphne;Hermione, Harry;372
+28;Dumbledore;Harry, McGonagall;179
+28;Daphne;Hermione, Pomfrey, Harry;252
+28;Dumbledore;;320
+29;Stan;Other;699
+29;Hermione;Daphne, Harry;2085
+29;Daphne;Harry, Hermione;2177
+29;Hermione;Harry (Slytherin), Sophie, Kevin, Justin, Dean;1252
+29;Harry (Slytherin);Other;1005
+29;Other;Daphne;99
+29;Harry;Daphne, Hermione;1560
+29;Harry;;696
+29;Dumbledore;;126
+29;Harry;;380
+29;Harry;Fred, George;138
+29;Hermione;Daphne;116
+29;Harry;Daphne;72
+29;Dumbledore;Harry, Daphne;430
+29;Hermione (Slytherin);;142
+29;Harry;;61
+29;John;Hermione (Slytherin);63
+29;Dumbledore;Daphne, Harry, Hermione (Slytherin);59
+29;Tracey;;46
+29;John;Susan;92
+29;Hermione (Slytherin);John;167
+29;John;Susan;565
+30;God;;138
+30;Dumbledore;Harry;146
+30;Harry;Daphne, Hermione;581
+30;Harry (Slytherin);Lucius, Narcissa;589
+30;Harry;Plato;795
+30;Draco;;233
+30;Dumbledore;Tonks;745
+30;Daphne;Harry, Hermione;587
+30;Dumbledore;;45
+30;John;Dumbledore;585
+30;Harry;John;870
+30;Harry (Slytherin);James, Flume;363
+30;John;Susan;213
+30;Harry (Slytherin);;593
+30;Susan (Hermione);Daphne;1085
+30;Daphne;Harry;238
+30;Dumbledore;;265
+30;Hermione;Daphne, Harry;685
+30;Dumbledore;;84
+30;Daphne;Hermione;277
+30;Dumbledore;;291
+30;Harry;Daphne;181
+30;Dumbledore;;114
+30;Harry;Daphne;68
+30;Dumbledore;;97
+30;Harry;Daphne;67
+30;Dumbledore;;99
+30;Harry;Daphne, Hermione;236
+30;Hermione;Daphne;48
+30;Dumbledore;;64
+30;Hermione;Harry;135
+30;Dumbledore;;48
+30;Sophie;Padma, Lisa;59
+30;John;Susan;50
+30;Sirius;Dumbledore;183
+30;Tracey;Blaise;86
+30;Hermione;Daphne;202
+30;Sirius;;57
+30;Hermione;Harry, Daphne;334
+30;Other;Dumbledore;36
+31;Dumbledore;Quirrell;512
+31;Daphne;Harry, Hermione;859
+31;Hermione;;242
+31;God;;344
+31;Dumbledore;Harry;235
+31;Harry;;744
+31;Dumbledore;John;569
+31;Harry;Volf Jr;530
+31;Dumbledore;Pomfrey;164
+31;Smith;Xeno, Luna;303
+31;Susan;Amelia, Tonks;184
+31;Daphne;Hermione, Tracey;312
+31;John;Su;438
+31;Harry;Susan;758
+31;Sally;Hannah;173
+31;John;Other;160
+31;Harry;John, Other;152
+31;Dumbledore;;19
+31;John;Other;229
+31;Ron;Seamus, Neville;158
+31;Harry;Other;310
+31;John;Other;323
+31;Dumbledore;Pomfrey;193
+31;Harry;Cedric;494
+31;Sophie;Lisa, Padma;239
+31;John;Other;190
+31;Draco;Pansy, Theo;173
+31;Harry;Other;262
+31;Daphne;Hermione;144
+31;John;Other;339
+31;Harry;Other;94
+31;Smith;Xeno;202
+31;John;Other;474
+31;Harry;Tonks;1029
+31;Dumbledore;;136
+31;Quirrell;;27
+31;God;;161
+31;John;;137
+31;Harry;Volf Jr;51
+31;Dumbledore;;19
+31;John;Harry;75
+31;God;John, Harry;63
+31;John;;37
+31;Dumbledore;;29
+31;Harry;;89
+31;Dumbledore;;12
+31;Harry;;12
+31;Dumbledore;;8
+31;Harry;;11
+31;Dumbledore;;4
+31;Harry;John;89
+31;Hermione;Daphne, Tracey, Dumbledore;177
+31;Daphne;Susan;92
+31;Hermione;Dumbledore;248
+31;Daphne;;90
+31;Harry;Hermione, Dumbledore, Daphne, Susan, Amelia;240
+31;Smith;Xeno;125
+32;God;;152
+32;Dumbledore;;129
+32;Daphne;Hermione, Tracey;655
+32;Dumbledore;Lily;131
+32;Daphne;Hermione;328
+32;Dumbledore;Jacob;529
+32;Daphne;Pandora, Hermione, Mrs Ogden;403
+32;Harry;Dumbledore;792
+32;Amelia;Daphne;340
+32;Sirius;Harry;1027
+32;Daphne;Hermione, Mrs Ogden, Xeno;249
+32;Dumbledore;;201
+32;Lucius;;331
+32;Smith;Xeno;83
+32;John;James, Lily;201
+32;Harry;Amelia, Dumbledore, Mrs Ogden;564
+32;Dumbledore;Mrs Ogden, Amelia;447
+32;Harry;Amelia, Dumbledore, Mrs Ogden;340
+32;John;;109
+32;Dumbledore;Amelia, Sirius, Other;936
+32;Sirius;James;164
+32;Harry;Dumbledore;435
+32;Dumbledore;McGonagall;339
+32;Dumbledore;James, Lily;310
+32;Smith;Xeno;600
+32;Mrs Ogden;Other;498
+32;Dumbledore;;22
+32;Mrs Ogden;Other;511
+32;Lucius;;149
+32;Harry;Amelia, Mrs Ogden, Dumbledore;356
+32;James;Lily;183
+32;Harry;Jacob, Hermione, Daphne;154
+33;Harry;McGonagall;210
+33;Daphne;Tracey, Hermione, Harry;595
+33;Daphne;Harry, Hermione;320
+33;Smith;Harry (Slytherin);1035
+33;Harry;Daphne, Hermione;558
+33;Hermione;Justin, Dean, Sophie, Kevin;175
+33;Harry;McGonagall, Flitwick, Quirrell;542
+33;Harry;Daphne, Hermione;108
+33;Harry;;377
+33;Harry;Draco, Theo, Blaise, Hermione;611
+33;Harry;Daphne, Hermione;60
+33;John;Harry (Dumbledore);718
+33;Harry (Dumbledore);;43
+33;Hermione;Daphne;142
+33;John;Susan, Padma;163
+33;Harry (Dumbledore);Hermione;46
+33;John;Ron, Susan, Padma;197
+33;McGonagall;Harry (Dumbledore);181
+33;Harry (Dumbledore);;16
+33;Hermione;;55
+33;John;Ron, Susan, Padma;521
+33;Hermione;;24
+33;John;Ron, Susan, Padma;335
+33;Hermione;Daphne, Harry (Dumbledore);121
+33;John;Ron, Susan, Padma;136
+33;John;Ron, Susan, Padma;124
+33;Hermione;Daphne, Harry (Dumbledore);61
+33;John;;185
+33;Harry (Dumbledore);;68
+33;John;Harry (Dumbledore);534
+33;Dumbledore;;123
+33;Hermione;Daphne;114
+33;Harry (Dumbledore);John, Ron, Susan, Padma;270
+33;Hermione;Daphne;45
+33;Harry;Flamel;545
+33;Dumbledore;Susan;136
+33;Hermione;Daphne;127
+33;Harry;Quirrell, Tracey;1013
+33;Hermione;Daphne;53
+33;Harry;Quirrell, Tracey;44
+33;Dumbledore;;59
+33;Hermione;Daphne;121
+33;Harry;Quirrell, Tracey;339
+33;Hermione;Daphne;63
+33;Harry;Quirrell, Tracey;872
+33;Daphne;Hermione;93
+33;Harry;Quirrell, Tracey;616
+33;Daphne;Hermione;87
+33;Harry;Quirrell, Tracey;147
+33;Hermione;Daphne;46
+33;Harry;Quirrell, Tracey;231
+33;Dumbledore;Flamel;172
+33;Tracey;Harry;282
+33;Harry;Quirrell, Daphne, Hermione;372
+33;Daphne;;144
+33;Daphne;Hermione, Tracey;181
+33;Harry;;256
+33;Harry (Slytherin);;72
+33;Harry;Daphne, Hermione;151
+33;John;James, Lily;275
+33;James;Lily;287
+33;Dumbledore;James;126
+33;Lily;James, Dumbledore, Petunia;141
+33;Dumbledore;Lily, James, Petunia;835
+34;God;;301
+34;Daphne;Luna, Ginny;969
+34;Other;;173
+34;Ginny;Daphne;1477
+34;Emma;;50
+34;Daphne;Fred, Dan;1163
+34;George;Molly, Fred;501
+34;Emma;Dan;104
+34;Hermione;Emma;562
+34;Daphne;Sunny;243
+34;Other;;410
+34;Daphne;Smith, Other;681
+34;Daphne;Jacob;106
+34;Other;;492
+34;Emma;Clare, Dan;185
+34;God;;470
+34;Daphne;Sophie, Hermione;292
+34;Hermione;Daphne;270
+34;Hermione;Plato;348
+34;Daphne;Hermione, Ginny;263
+34;Daphne;Hermione, Dan, Emma, Clare;2075
+34;Daphne;Hermione, Dan, Emma, Clare, Floating-Interest;912
+35;Harry;Hermione, Daphne;81
+35;Lucius;Narcissa, Draco, Other;665
+35;James;Sirius;454
+35;Harry;Other;3901
+35;Lucius;Narcissa, Julia;259
+35;Julia;Narcissa;679
+35;Harry;Other;385
+35;Julia;Diary;599
+35;Harry;Other;257
+35;Julia;Diary;525
+35;Harry;Other;574
+35;Julia;Diary, Narcissa;347
+35;Harry (Slytherin);Plato;350
+35;Lucius;Narcissa;160
+35;Julia;Narcissa, Diary;492
+35;Daphne;Luna, Hermione;195
+35;Sirius;Luna, Hermione, Daphne;281
+35;Virgo;Lucius, Narcissa;803
+35;Harry;Sirius;432
+35;Virgo;Narcissa;648
+35;James;Sirius;74
+35;Alex;Harry, Daphne, Hermione, Luna, Ginny;1299
+35;Draco;Lucius, Virgo;599
+35;Lily;Harry;429
+36;Daphne;;648
+36;Jacob;Daphne;228
+36;Daphne;Astoria;896
+36;Other;Daphne, Astoria;337
+36;Daphne;Astoria;1642
+36;Other;Daphne, Astoria;298
+36;Daphne;Astoria;361
+36;Other;;264
+36;Daphne;Astoria, Other;2017
+37;God;Harry (Slytherin);572
+37;God;Harry (Slytherin), Snape;537
+37;God;Harry (Slytherin), Plato;642
+37;God;Harry (Slytherin), Emma, Dan;689
+37;God;Harry (Slytherin), Jacob, Smith, Xeno, Sunny;624
+37;God;Harry (Slytherin), Lily;690
+37;Harry;Lily;492
+37;Harry;John;646
+37;Harry;Lily, James, John;521
+37;Alex;Hermione, Luna, Daphne;478
+37;Harry;Daphne;711
+37;Alex;Harry, Daphne, Luna, Hermione;632
+37;Ginny;Molly, Arthur;737
+37;Hermione;Daphne, Luna;356
+37;Ginny;Molly, Luna;366
+37;Harry;Lily, James, John;63
+37;Hermione;Daphne;218
+37;Arthur;Molly, Luna (Ginny);175
+37;Draco;Theo, Pansy;118
+37;Hermione;Daphne;57
+37;Virgo;John, James, Draco;456
+37;Ginny (Luna);Ollivander, Luna (Ginny);487
+37;Lockhart;Other;470
+37;Ginny;Virgo, Other;757
+37;Daphne;Hermione;383
+37;Ginny;Molly;314
+37;Harry;John;339
+37;Ginny;Luna;87
+37;Harry;John;77
+37;Virgo;Harry, John;692
+37;Harry;Lockhart, John;698
+38;Sirius;Alex;210
+38;Alex;Draco, Virgo;576
+38;Harry;Ginny, Luna, Daphne, Hermione;1121
+38;Fred;George, John;142
+38;Arthur;Molly;323
+38;Arthur;Harry (Slytherin);1496
+38;Harry (Slytherin);;95
+38;Virgo;Draco, Alex;297
+38;Harry;Tracey;706
+38;Hermione;Tracey, Justin, Dean, Sophie, Kevin, Colin, Annabel, Violet, Marigold, Alan;833
+38;John;Ginny;198
+38;Draco;Pansy, Theo;213
+38;Ginny;Virgo, Luna, Alex;196
+38;Virgo;Alex, Ginny, McGonagall;378
+38;Alex;Hat;278
+38;Virgo;Hat;271
+38;God;Harry, Draco;29
+38;John;;270
+38;Ginny;Hat;12
+38;Virgo;;79
+38;Harry;Lockhart;828
+38;Virgo;;258
+38;Alex;Hestia, Flora;975
+39;God;;106
+39;Virgo;Luna;1097
+39;Harry;John;119
+39;Harry;Luna, Ginny, Hermione, Daphne;696
+39;Harry;Ginny;1090
+39;Virgo;;525
+39;Hermione;Daphne;673
+39;Hermione;Sophie;320
+39;Virgo;;457
+39;Harry (Slytherin);Lockhart, Lucius, James, Flume, Sirius;1095
+39;Harry;Daphne;526
+39;Virgo;;1116
+39;Alex;Lily, Virgo, Luna;1223
+39;Virgo;Violet, Marigold, Cedric;367
+39;Virgo;Susan;445
+39;Other;;1180
+39;Other;Luna;206
+39;Other;Xeno, Pandora;112
+39;Other;;426
+39;Other;Luna;405
+39;Other;;159
+39;God;Luna;166
+39;Other;Luna;817
+39;Other;Xeno, Pandora, Luna;156
+39;Daphne;Harry, Alex, Ginny, Hermione;1359
+39;Virgo;Susan;253
+40;God;Draco, Theo, Pansy, Luna, Ginny;419
+40;Alex;Draco, Theo, Pansy;983
+40;Ginny;Luna;114
+40;Fred;George;105
+40;Ginny;Harry, Luna, Fred, George, Daphne, Hermione, Alex;1059
+40;Ginny;Harry;284
+40;Alex;Harry, Ginny, Flint, Draco, Pansy;645
+40;Alex;Harry;818
+40;Daphne;Harry, Angelystor, Hermione, Luna, Ginny;886
+40;Other;;51
+40;Daphne;Harry, Angelystor, Hermione, Luna, Ginny;650
+40;Other;;1207
+40;Other;Harry (Slytherin);396
+40;Daphne;Luna, Xeno, Pandora, Pomfrey;369
+40;Daphne;Harry, Luna;832
+40;Ginny;Harry;540
+40;Virgo;;87
+40;Clare;Other;1192
+40;Clare;Dan, Emma;1204
+40;Alex;Harry;1634
+40;Hermione;Daphne;105
+40;Alex;Harry;608
+40;Hermione;Harry, Alex, Daphne, Ginny;271
+40;Alex;Harry;1020
+40;Daphne;Alex, Harry, Ginny, Hermione;270
+40;Draco;Alex, Theo, Pansy, Crabbe, Goyle;544
+40;Theo;Pansy, Alex;546
+40;Ginny;;240
+41;Luna;Xeno, Pandora;335
+41;Harry;Ginny;301
+41;Ginny;;311
+41;Harry;Ginny;60
+41;Ginny;Virgo;261
+41;Harry;Ginny;140
+41;Ginny;Virgo;343
+41;Harry;Ginny;505
+41;Harry;Daphne, Hermione, Luna, Alex, Ginny;338
+41;Ginny;Luna;418
+41;Virgo;;678
+41;Lily;Harry;643
+41;Other;Lucius;377
+41;Lucius;;154
+41;Sirius;Arthur;849
+41;Sirius;Tonks;302
+41;Virgo;;804
+41;Virgo;Luna;543
+41;Harry;McGonagall, Hermione;319
+41;Harry;Luna;472
+41;Virgo;Lockhart, Lucius, Sirius, Lily, Amelia;1038
+41;John;Susan, Virgo, Lily;794
+41;Sirius;James;196
+41;Ginny;;505
+41;Virgo;Ginny, Luna;608
+41;Ginny;Luna;309
+41;God;Hermione, Sophie, Kevin, Dean, Justin, Marigold, Violet, Colin, Alan;325
+41;Virgo;Ginny, Luna;220
+41;Ginny;;251
+41;Virgo;;41
+41;Harry;Ginny;270
+41;Virgo;John, Ginny, Harry;237
+41;Harry;Ginny;469
+41;Ginny;;531
+42;Daphne;Pansy;885
+42;Daphne;Hermione, Draco, Alex, Harry (Slytherin), Lily;1692
+42;Lily;Tracey, Hermione;234
+42;Daphne;Harry (Slytherin);1235
+42;Lily;;168
+42;Dan;Emma, Harry (Slytherin), Daphne, Clare;575
+42;Clare;Harry (Slytherin);494
+42;Other;Harry (Slytherin);1028
+42;Daphne;Harry (Slytherin), Ragnok;1678
+42;Draco;Lily;403
+42;Daphne;Harry (Slytherin);411
+42;Hermione;Ginny;368
+42;Daphne;Harry (Slytherin);438
+42;Fudge;Bentley, Umbridge;567
+42;Umbridge;Bentley;400
+42;Lucius;Other;224
+42;Jacob;Arthur, Dan;263
+42;Fudge;Harry (Slytherin), Daphne;457
+42;Daphne;Harry;506
+42;Lily;;25
+43;Tracey;Hermione, Lily;191
+43;Lily;Hermione (Harry), Ginny;590
+43;Rita;Bozo;393
+43;God;;468
+43;Daphne;Harry (Slytherin);452
+43;Rita;Daphne, Harry (Slytherin);440
+43;Daphne;Harry (Slytherin);733
+43;Other;Rita;166
+43;Rita;Bozo;141
+43;Daphne;Harry (Slytherin);191
+43;Hermione;Alex, Ginny, Luna, Tracey;499
+43;Rita;Bozo;203
+43;Daphne;Harry (Slytherin);304
+43;Draco;Alex;550
+43;Daphne;Harry (Slytherin);217
+43;Rita;;183
+43;Daphne;Harry (Slytherin);114
+43;Rita;;63
+43;Daphne;Harry (Slytherin);69
+43;Rita;;124
+43;Daphne;Harry (Slytherin);57
+43;Rita;;319
+43;Daphne;Harry (Slytherin);137
+43;Draco;Alex;1086
+43;Alex;Hestia, Flora;687
+43;Draco;Pansy;101
+43;Hermione;Tracey, Luna (Ginny), Ginny (Harry);446
+43;Lily;Hermione, Tracey, Luna (Ginny), Ginny (Harry);483
+43;Ginny (Harry);;382
+43;Lily;Hermione, Tracey, Luna (Ginny), Ginny (Harry);350
+43;Ginny (Harry);Luna (Ginny), John, Lily;379
+43;Rita;Bozo;149
+43;Ginny (Harry);Lily;209
+43;Lily;Hermione;296
+43;Ginny (Harry);John;194
+43;Hermione;Tracey;87
+43;Lily;Tracey;161
+43;Draco;Pansy, Alex;1341
+43;Other;Luna;158
+43;Draco;Pansy, Alex;520
+43;Lily;Hagrid, Lockhart, Snape, McGonagall;225
+43;Pansy;Draco, Alex, Other;497
+43;Lily;Snape, Other;193
+43;Alex;Pansy, Draco;635
+43;Alex;Luna;491
+43;Harry;;778
+44;Hermione;Daphne;284
+44;Hermione;Tracey, Harry;226
+44;Hermione;Harry;2264
+44;Other;Hermione;312
+44;Pomfrey;Hermione;379
+44;Tracey;Harry (Slytherin), Bentley;982
+44;Virgo;John;574
+44;Bentley;Umbridge;1326
+44;Hermione;;310
+44;Harry;Alex;119
+44;Arthur;Bentley;609
+44;Other;Harry (Slytherin);171
+44;Umbridge;Other;921
+44;Virgo;;374
+44;James;Arthur;600
+44;Harry (Slytherin);Arthur;436
+44;Harry;;315
+45;God;;524
+45;Bentley;;361
+45;Ginny;Harry;688
+45;Kevin;Justin, Sophie;339
+45;Lucius;Bentley;685
+45;Alex;Harry;758
+45;Nott;Lucius;365
+45;Daphne;Hermione;546
+45;John;Virgo, Susan;1393
+45;Daphne;Hermione;1263
+45;Lucius;Lockhart, Harry (Slytherin);1633
+45;Hermione;Harry;653
+45;Sirius;James;355
+45;Daphne;Harry;676
+45;Hermione;Harry;637
+45;James;Bentley;142
+45;Lucius;;136
+45;Harry;Luna;233
+45;Hermione;Daphne;439
+46;Lucius;Other;1242
+46;Captain's Logs;;2088
+46;Hermione;Harry;1114
+46;Virgo;Other;1320
+46;Ginny;;215
+46;Alex;Harry, Daphne;1185
+46;God;Harry, Alex, Daphne, Luna, Ginny, Hermione;486
+46;Harry (Slytherin);Hermione, McGonagall;219
+46;Harry (Slytherin);Clare;431
+46;Bentley;Umbridge;870
+46;Hermione;Dan, Emma, Luna, Harry (Slytherin), Daphne;776
+46;Bentley;Other;253
+46;Other;;264
+46;Hermione;Harry (Slytherin), Luna, Daphne, Emma;611
+46;Bentley;;363
+46;Hermione;Emma, Daphne, Harry (Slytherin), Plato;469
+46;Bentley;Fudge;768
+46;Hermione;Emma, Daphne, Luna;1349
+46;Umbridge;Sirius;475
+46;Hermione;Daphne, Emma;230
+46;Bentley;;151
+46;Hermione;Daphne, Emma, Luna;227
+46;Bentley;Harry (Slytherin);123
+46;Emma;Hermione, Luna, Daphne;99
+46;Bentley;Harry (Slytherin);107
+46;Hermione;;259
+46;Bentley;Harry (Slytherin);915
+46;Hermione;;160
+46;Hermione;Harry (Slytherin), Emma, Clare, Daphne, Luna;356
+46;Hermione;Harry;333
+47;Fred;George;854
+47;Lockhart;Nearly Headless Nick;316
+47;Sophie;Justin, Kevin, Hermione;505
+47;Sophie;Justin, Kevin, Fred;319
+47;Fred;George, Sophie;711
+47;Lockhart;Other;350
+47;Fred;Sally, Zach;304
+47;Lockhart;Fred, George;1280
+48;Ginny;Harry, Daphne;717
+48;Ginny;Harry, Daphne;1832
+48;Ginny;Harry;1065
+48;Virgo;;763
+48;Virgo;John;292
+48;Virgo;John, Ron;1621
+48;Virgo;John;938
+48;Virgo;Susan;844
+48;Virgo;John, Susan;773
+48;Virgo;John, Susan, Other;2082
+48;Fred;George, Other;655
+48;John;Virgo, Susan;1280
+48;Virgo;John;581
+48;John (Alan);Violet, Marigold;746
+48;Hermione;Harry, Justin, Violet, Marigold, John (Alan);704
+48;John (Alan);Hermione, Justin, Sophie;1237
+48;Virgo;Susan, Hermione, Harry;281
+48;Virgo;Harry, John, Susan, Hermione;668
+49;Alex;Harry;1965
+49;Alex;Hestia, Flora;1519
+49;Draco;;457
+49;Draco;Flitwick;230
+49;Draco;Other;1135
+49;Virgo;;886
+49;Virgo;Julia;1233
+49;Lily;Virgo, Other;194
+49;Alex;Sirius, Lily, Pomfrey, Snape, Narcissa;1117
+49;Harry;Luna, Alex;859
+49;Ginny;Draco, Flint;414
+49;Ginny;Harry, Daphne, Alex, Hermione, Luna;213
+49;Luna;Harry;581
+49;Harry (Slytherin);;375
+49;Ginny;Alex;30
+49;Luna;;100
+49;Daphne;Hermione, Alex;95
+49;Luna;Harry (Slytherin);195
+49;Hermione;Elizabeth;65
+49;Julia;Virgo;512
+49;Virgo;Julia;957
+49;Julia;Virgo;579
+49;Jacob;Daphne, John, Pomfrey;494
+49;Narcissa;Other;435
+49;Virgo;;537
+49;Virgo;Narcissa;750
+50;Daphne;Plato;241
+50;Plato;;308
+50;Emma;Clare, Dan;409
+50;Smith;;348
+50;Jacob;;135
+50;Virgo;Flitwick;991
+50;Virgo;Snape, Ginny;716
+50;Alex;Hermione, Daphne, Ginny;2545
+50;Virgo;Susan;1140
+50;John;Virgo, Susan;1096
+50;Jacob;Xeno;1240
+50;Draco;Alex, Daphne;1559
+50;John;Virgo, Draco;1023
+50;Alex;Daphne;507
+51;John;Fred, George, Ginny;715
+51;Ginny;Draco;271
+51;John;Other;305
+51;Virgo;;464
+51;Ginny;Fred, George;1066
+51;Hermione;Daphne;384
+51;Lily;Snape, Lockhart, McGonagall;577
+51;John;Lockhart, Ginny;349
+51;Lockhart;;125
+51;Virgo;Susan;220
+51;Ginny;Flint;146
+51;John;Ginny;252
+51;Virgo;;69
+51;Ginny;John;132
+51;Alex;Pansy;42
+51;Ginny;;190
+51;Lily;Snape;193
+51;Hermione;Ginny;173
+51;Virgo;Susan;314
+51;Lily;Pomfrey, Lockhart, Hermione, Snape;547
+51;Jacob;Xeno, Smith, Other;1712
+51;Jacob;Xeno, Smith, Other;610
+51;Jacob;Xeno, Smith;560
+51;Virgo;Susan;84
+51;Ginny;Molly, Arthur;811
+51;John;;368
+51;Virgo;Susan;262
+51;John;;136
+51;Virgo;Susan;80
+51;John;;100
+51;Virgo;Susan;284
+51;John;;359
+51;Susan;Virgo;374
+51;John;;64
+51;Virgo;Susan;523
+51;John;;864
+51;John;Virgo, Susan;43
+51;Harry;Luna, Ginny, Hermione, Daphne;342
+51;Virgo;Harry (Slytherin);1443
+51;Harry;Alex;181
+52;Daphne;Alex, Hermione, Luna, Ginny;406
+52;Harry;Daphne, Alex, Hermione, Luna, Ginny;174
+52;Floating-Interest;;54
+52;Floating-Interest;Other;534
+52;Floating-Interest;Other;388
+52;Floating-Interest;Other;288
+52;Floating-Interest;Xeno;258
+52;Other;Floating-Interest, Plato;417
+52;Plato;;297
+52;Floating-Interest;Other;593
+52;Dan;Emma;114
+52;Other;Floating-Interest;424
+52;Floating-Interest;Other;497
+52;Plato;;65
+52;Floating-Interest;Other;190
+52;Floating-Interest;Plato;102
+52;Other;Floating-Interest;411
+52;Floating-Interest;Plato;267
+52;Other;Floating-Interest;443
+52;Plato;Floating-Interest;363
+52;Floating-Interest;Other;592
+52;Floating-Interest;;264
+52;Floating-Interest;Ragnok, Plato;575
+53;Lily;Other;261
+53;Lily;Snape, Lockhart, Sirius, Harry (Slytherin), Fudge, Other;899
+53;Lily;Other;145
+53;Sirius;Other;131
+53;Arthur;Ginny, Other;162
+53;Xeno;Other;278
+53;Other;Amelia;195
+53;Other;;65
+53;Hermione;Alex;252
+53;Neville;Ron;520
+53;James;Lily, Harry, John;661
+53;Lockhart;;29
+53;James;Lily, Dumbledore;532
+53;Harry;John;299
+53;Daphne;Luna, Harry;704
+53;John;Virgo, Susan;630
+53;Hermione;Harry, Daphne;317
+53;Lockhart;Alex;355
+53;Hermione;Daphne, Harry, Luna;465
+53;Dumbledore;Bill;397
+53;Harry;Daphne, Luna, Hermione, John;509
+53;Lily;James;234
+53;Virgo;John, Harry;131
+53;Lockhart;Alex;209
+53;John;Harry;597
+53;Lockhart;Alex;95
+53;Harry;John, James;946
+53;Virgo;Lily, James, John;1253
+53;Harry;Ginny, Daphne, Hermione;324
+53;Virgo;;1150
+53;John;Susan, Virgo;1807
+53;James;Lily;146
+54;Stan;Other;428
+54;Harry;James, Lily, John;491
+54;Jacob;Astoria, Sunny, Harry (Daphne);281
+54;Daphne (Slytherin);Jacob, Astoria, Sunny, Harry (Daphne);1083
+54;Draco;Sirius, Alex, Virgo, Harry (Slytherin);1186
+54;God;;338
+54;Dan;Emma, Daphne, Luna, Hermione, Harry (Slytherin);1152
+54;Ginny;;336
+54;Emma;Dan, Daphne, Luna, Hermione, Harry;880
+54;Xeno;Other;546
+54;Dan;Emma, Daphne, Luna, Hermione, Harry;1143
+54;Other;Harry (Slytherin);544
+54;Plato;;228
+54;Harry (Slytherin);Plato;73
+54;Draco;Pansy, Theo, Crabbe, Goyle, Alex, Hestia, Flora;863
+54;Clare;Harry (Slytherin);977
+54;Draco;Pansy, Theo, Crabbe, Goyle, Alex, Hestia, Flora;149
+54;Bill;Ginny;773
+54;God;Other, Plato, James;281
+54;Lockhart;Harry (Slytherin);683
+54;Draco;Pansy, Theo, Crabbe, Goyle, Alex, Hestia, Flora;812
+54;James;Harry (Slytherin);519
+54;God;;292
+54;Draco;Pansy, Theo, Crabbe, Goyle, Alex, Hestia, Flora, Ginny, Harry (Slytherin);1528
+55;Daphne;Harry, Luna;170
+55;Draco;Alex, Other;412
+55;Daphne;Harry, Luna;589
+55;Draco;Pansy, Theo;380
+55;Tempest;Smith, Harry, Daphne (Slytherin), Other;319
+55;James;Lily;42
+55;Tempest;Smith, Harry, Daphne (Slytherin), Other;657
+55;Draco;Astoria (Daphne), Hermione;299
+55;Daphne;Harry (Slytherin), Lucius;711
+55;Draco;Harry (Slytherin), Lucius;252
+55;James;Lily;180
+55;Daphne (Slytherin);Harry, Smith, Other;404
+55;Draco;Luna;1062
+55;Harry;Daphne (Slytherin), Other;755
+55;Draco;Narcissa;406
+55;Lucius;Draco, Narcissa;690
+55;Daphne (Slytherin);Lucius;584
+55;James;Lockhart, Sirius;1072
+55;Alex;Lucius;287
+55;God;;726
