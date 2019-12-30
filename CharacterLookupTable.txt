@@ -1,0 +1,124 @@
+Alan;Alan Gage
+Alex;Alexandra Black
+Amelia;Amelia Bones
+Andromeda;Andromeda Tonks
+Angelystor;Angelystor
+Annabel;Annabel Entwhistle
+Arthur;Arthur Weasley
+Astoria;Astoria Greengrass
+Astoria (Daphne);Astoria Greengrass
+Baron;Bloody Baron
+Bentley;Bentley
+Bill;Bill Weasley
+Blaise;Blaise Zabini
+Bozo;Bozo
+Captain's Logs;Captain Slytherin
+Cedric;Cedric Diggory
+Charlie;Charlie Weasley
+Clare;Clare Cooper
+Colin;Colin Creevey
+Crabbe;Vincent Crabbe
+Curtis;Curtis Lawless
+Dan;Daniel Granger
+Daphne;Daphne Greengrass
+Daphne (Slytherin);Daphne Greengrass
+Dean;Dean Thomas
+Death;Death
+Diary;Diary
+Draco;Draco Malfoy
+Dumbledore;Albus Dumbledore
+Elizabeth;Elizabeth Greengrass
+Emma;Emma Granger
+Fate;Fate
+Flamel;Nicolas Flamel
+Flint;Marcus Flint
+Flitwick;Filius Flitwick
+Floating-Interest;Floating-Interest
+Flora;Flora Carrow
+Flume;Ambrosius Flume
+Fred;Fred Weasley
+Fudge;Cornelius Fudge
+George;George Weasley
+Ginny;Ginny Weasley
+Ginny (Harry);Ginny Weasley
+Ginny (Luna);Ginny Weasley
+God;Third-Person Omniscient
+Goyle;Gregory Goyle
+Hagrid;Rubeus Hagrid
+Hannah;Hannah Abbott
+Harry;Harry Potter
+Harry (Daphne);Harry Potter
+Harry (Dumbledore);Harry Potter
+Harry (Ginny);Harry Potter
+Harry (Malfoy);Harry Potter
+Harry (Slytherin);Harry Potter
+Hat;Sorting Hat
+Hermione;Hermione Granger
+Hermione (Harry);Hermione Granger
+Hermione (Slytherin);Hermione Granger
+Hestia;Hestia Carrow
+Jacob;Jacob Greengrass
+James;James Potter
+John;John Potter
+John (Alan);John Potter
+Julia;Julia Olsson
+Justin;Justin Finch-Fletchley
+Kevin;Kevin Entwhistle
+Lavender;Lavender Brown
+Lily;Lily Potter
+Lisa;Lisa Turpin
+Lockhart;Gilderoy Lockhart
+Lucius;Lucius Malfoy
+Luna;Luna Lovegood
+Luna (Ginny);Luna Lovegood
+Marigold;Marigold Chesterfield
+McGonagall;Minerva McGonagall
+Millicent;Millicent Bulstrode
+Molly;Molly Weasley
+Mrs Ogden;Mrs Ogden
+Narcissa;Narcissa Malfoy
+Nearly Headless Nick;Nearly Headless Nick
+Neville;Neville Longbottom
+Nott;Lord Nott
+Ollivander;Ollivander
+Orion;Orion Black
+Other;Other
+Padma;Padma Patil
+Pandora;Pandora Lovegood
+Pansy;Pansy Parkinson
+Parvati;Parvati Patil
+Percy;Percy Weasley
+Perv Ghost;Perv Ghost
+Petunia;Petunia Dursley
+Plato;Plato
+Pomfrey;Poppy Pomfrey
+Quirrell;Quirrellmort
+Ragnok;Ragnok
+Rita;Rita Skeeter
+Ron;Ron Weasley
+Sally;Sally Smith
+Seamus;Seamus Finnigan
+Sirius;Sirius Black
+Smith;Lord Smith
+Snape;Severus Snape
+Sophie;Sophie Roper
+Sprout;Pomona Sprout
+Stan;Stan Shunpike
+Su;Su Li
+Sunny;Sunny Greengrass
+Susan;Susan Bones
+Susan (Hermione);Susan Bones
+Terry;Terry Boot
+Tempest;Lord Tempest
+Theo;Theodore Nott
+Tonks;Tonks
+Tracey;Tracey Davis
+Umbridge;Dolores Umbridge
+Vernon;Vernon Dursley
+Violet;Violet Chesterfield
+Virgo;Virgo Malfoy
+Volf Jr;Romulus Volf
+Volf Sr;Robert Volf
+Wayne;Wayne Hopkins
+Xeno;Xenophilius Lovegood
+Zach;Zacharias Smith
